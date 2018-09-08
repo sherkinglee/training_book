@@ -1,12 +1,13 @@
 # Appendix III. Mapping Protocol
 
-## Next-Generation Sequencing\(NGS\)
+## What is Next-Generation Sequencing\(NGS\)?
 
 \(adapted from [https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina\_sequencing\_introduction.pdf](https://www.ramaciotti.unsw.edu.au/wp-content/uploads/2015/09/illumina_sequencing_introduction.pdf) \)
 
 The textbook definition of _Next-Generation Sequencing\(NGS\)_ is a high-throughput DNA sequencing methodology that makes use of parallelization to process up to half a million sequences concurrently. It is being used to \(re\)sequence genomes, determine the DNA-binding sites of proteins \(ChIP-seq\), sequence transcriptomes \(RNA-seq\). Compared to traditional\(Sanger\) sequencing, NGS is faster and ~1000x less expensive.
 
-In principle, the workflows behind NGS technology includes several steps \(Figure1\):
+## How Does RNA-Seq Work?
+There are many methods for performing an RNA-seq experiment. In fact, the techniques are evolving so rapidly it can be difficult to decide which one to use. A basic choice mainly includes several steps \(Figure1\):
 
 * Library Preparation—The sequencing library is prepared by random fragmentation of the DNA or cDNA sample, followed by 5’ and 3’ adaptor ligation.Adapter-ligated fragments are then PCR amplified and gel purified. 
 * Cluster Generation—For cluster generation, the library is loaded on a lawn of surfaces bound with oligos complementary to the library adapters. Each fragment is then amplified into distinct,clonal clusters through bridge amplification. 
@@ -15,16 +16,19 @@ In principle, the workflows behind NGS technology includes several steps \(Figur
 
 ![Figure1. NGS overview](../.gitbook/assets/mapping_protocol_fig1.png)
 
-[![YouTube video](http://img.youtube.com/vi/fCd6B5HRaZ8/0.jpg)](http://www.youtube.com/watch?v=fCd6B5HRaZ8)
+[![YouTube video](../.gitbook/assets/mapping-protocol-youtube.jpeg)](http://www.youtube.com/watch?v=fCd6B5HRaZ8)
 
-## Sequencing type
-
+## Sequencing Type: Single or Paired?
+RNA samples are typically sequenced with either single end(SE) or pair end(PE) sequencing. 
 * Single-End Sequencing: Single-read sequencing involves sequencing DNA from only one end, and is the simplest way for sequencing \(Figure 2\).
 * Paired-End Sequencing: A major advance in NGS technology occurred with the development of pair-end \(PE\) sequencing \(Figure 2\). PE sequencing enables both ends of the DNA fragment to be sequenced.
 
 ![Figure2. Single and Pair-end sequencing](../.gitbook/assets/mapping_protocol_fig2.png)
 
-## Directional RNA-seq data,which parameters to choose?
+## Why Bother With Strand Information?
+There has been a lot of discussion about anti-sense transcription and its biological relevance. For example, in some cases transcription creates anti-sense RNA constructs that may play a role in regulating gene expression. In fact, long noncoding RNA \(lncRNA\) analysis depends on directional RNA sequencing. As a result, it is often desirable to create libraries that retain the **strand orientation** of the original RNA targets so that you can directly determine which strand was being transcribed in your sample.
+
+## Directional RNA-seq data: Which Parameters to Choose?
 
 \(adapted from: [https://chipster.csc.ﬁ/manual/library-type-summary.html](https://chipster.csc.ﬁ/manual/library-type-summary.html)\)
 
@@ -107,3 +111,5 @@ The ﬁrst read \(read 1\) is from the original RNA strand/template, second read
 
 Note also that the --fr/--rf/--ff or "Order of mates to align" parameter in Bowtie has similar sounding parameter options: \[--fr: "Forward/reverse", --rf: "Reverse/Forward", --ff: "Forward/forward"\]. However, these parameters are a bit different story, as they explain how the paired end reads are oriented towards each other \(-&gt; &lt;-, -&gt; -&gt; or &lt;- -&gt;\). The default \(--fr, -&gt; &lt;-\) is appropriate for Illumina's paired-end reads: it means that read 1 appears upstream of the reverse complement of read 2, or vice versa. When running TopHat, the library-type parameter is delivered to Bowtie, so the user doesn't have to worry about that too much.
 
+## For more information
+* [Labome](https://www.labome.com/method/RNA-seq-Using-Next-Generation-Sequencing.html)
