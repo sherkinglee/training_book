@@ -48,7 +48,7 @@ All code has been tested in cnode @ Lu Lab. We would also provide a Linux **dock
 
 ## Video 
 
-a\) Introduce training on github 
+### a\) Introduce training on github 
 
 @Youtube
 
@@ -58,7 +58,7 @@ a\) Introduce training on github
 
 {% embed data="{\"url\":\"https://player.bilibili.com/player.html?aid=30589908&cid=53391901&page=1 \",\"type\":\"link\",\"title\":\"bilibili html5 player\"}" %}
 
-b\) More videos
+### b\) More videos
 
 @Youtube
 
