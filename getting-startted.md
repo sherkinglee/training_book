@@ -44,3 +44,27 @@
 
 All code has been tested in cnode @ Lu Lab. We would also provide a Linux **docker** for our advanced tutorial in the future.
 
+
+
+## Video 
+
+a\) Introduce training on github 
+
+@Youtube
+
+{% embed data="{\"url\":\"https://youtu.be/UeyenyNkjWE\",\"type\":\"video\",\"title\":\"0 Getting Started introduce training on github\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/UeyenyNkjWE/hqdefault.jpg\",\"width\":480,\"height\":360,\"aspectRatio\":0.75},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/UeyenyNkjWE?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75.0019%;\\\"><iframe src=\\\"https://www.youtube.com/embed/UeyenyNkjWE?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.3333}}" %}
+
+@Bilibili
+
+{% embed data="{\"url\":\"https://player.bilibili.com/player.html?aid=30589908&cid=53391901&page=1 \",\"type\":\"link\",\"title\":\"bilibili html5 player\"}" %}
+
+b\) More videos
+
+@Youtube
+
+{% embed data="{\"url\":\"https://youtu.be/kLRC0w9u\_fM\",\"type\":\"video\",\"title\":\"更多教学视频见清华云盘\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/kLRC0w9u\_fM/mqdefault.jpg\",\"width\":320,\"height\":180,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/kLRC0w9u\_fM?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/kLRC0w9u\_fM?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
+@Bilibili
+
+{% embed data="{\"url\":\"https://player.bilibili.com/player.html?aid=30592739&cid=53397191&page=1\",\"type\":\"link\",\"title\":\"bilibili html5 player\"}" %}
+
