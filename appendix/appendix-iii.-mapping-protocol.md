@@ -17,7 +17,7 @@ There are many methods for performing an RNA-seq experiment. In fact, the techni
 
 ![Figure1. NGS overview](../.gitbook/assets/mapping_protocol_fig1.png)
 
-![](../.gitbook/assets/mapping-protocol-youtube%20%281%29.jpg)
+![](../.gitbook/assets/mapping-protocol-youtube.jpg)
 
 ## Sequencing Type: Single or Paired?
 
