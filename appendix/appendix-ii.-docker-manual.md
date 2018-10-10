@@ -1,7 +1,3 @@
----
-description: Contributed by Binbin Shi
----
-
 # Appendix II. Docker Manual
 
 ## 下载Docker软件
