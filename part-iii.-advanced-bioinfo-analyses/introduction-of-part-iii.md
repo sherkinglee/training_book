@@ -2,9 +2,9 @@
 
 We'll introduce machine learning for bioinformatics.
 
-**Share scripts:** 
-
-* [Example R scripts of Machine Learning](https://github.com/lulab/PI/tree/master/Rscript/machine_learning)
+* Machine Learning
+* Feature Selection
+* Deep Learning
 
 
 
