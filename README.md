@@ -4,7 +4,7 @@ description: Bioinfo Training -- Lu Lab
 
 # Bioinformatics Tutorial - Advanced
 
-![](.gitbook/assets/book_logo.png)
+![](.gitbook/assets/helix.png)
 
 ## Teaching Philosophy
 
@@ -33,7 +33,7 @@ We teach professional skills in bioinformatics. These skills are not just runnin
 * e-mai: lulab AT biomed.tsinghua.edu.cn
 * Hompage: [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn)
 * Github: [http://lulab.github.io](http://lulab.github.io)
-* Books: V1: [https://lulab.gitbooks.io](https://lulab.gitbooks.io) ;  V2: [https://lulab.gitbook.io](https://lulab.gitbook.io)
+* Books: [https://lulab.gitbook.io](https://lulab.gitbook.io); [https://lulab2.gitbook.io](https://lulab2.gitbook.io)  
 * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
 
 ## Copyright
