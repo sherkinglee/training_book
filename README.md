@@ -16,15 +16,9 @@ We teach professional skills in bioinformatics. These skills are not just runnin
 
 ## Contributors
 
-| Contributors | Contact | Github |
-| :--- | :--- | :--- |
-| Zhi J. Lu | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | [http://github.com/lulab](http://github.com/lulab) |
-| Binbin Shi | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) |  |
-| Yang Li | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | - |
-| Xupeng Chen | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) |  |
-| Siqi Wang | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | - |
-| Jingyi Cao | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) | - |
-| Zhiyu Xu | [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn) |  |
+Yang Li, Binbin Shi, Xupeng Chen, Siqi Wang, Jingyi Cao, Zhiyu Xu and Zhi J. Lu\*
+
+\*Corresponding to Zhi J. Lu
 
 ## Join Us
 
