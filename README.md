@@ -1,5 +1,5 @@
 ---
-description: Bioinfo Training -- Lu Lab
+description: 生物信息学实践教程 - 提高篇
 ---
 
 # Bioinformatics Tutorial - Advanced
