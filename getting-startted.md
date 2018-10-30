@@ -52,19 +52,12 @@ All code has been tested in cnode @ Lu Lab. We would also provide a Linux **dock
 
 [@Youtube](https://youtu.be/UeyenyNkjWE)
 
-{% embed url="https://youtu.be/UeyenyNkjWE" %}
-
 [@Bilibili](https://player.bilibili.com/player.html?aid=30589908&cid=53391901&page=1)
 
-{% embed url="https://player.bilibili.com/player.html?aid=30589908&cid=53391901&page=1" %}
 
 ### b\) More videos
 
 [@Youtube](https://youtu.be/kLRC0w9u\_fM)
 
-{% embed url="https://youtu.be/kLRC0w9u\_fM" %}
-
 [@Bilibili](https://player.bilibili.com/player.html?aid=30592739&cid=53397191&page=1)
-
-{% embed url="https://player.bilibili.com/player.html?aid=30592739&cid=53397191&page=1" %}
 
