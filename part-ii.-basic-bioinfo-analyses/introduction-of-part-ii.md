@@ -114,11 +114,6 @@ mkpr
 
 ### a\) Introduction exRNA-seq
 
-@Youtube
+[@Youtube](https://youtu.be/ovSVpqcDB8o)
 
-{% embed url="https://youtu.be/ovSVpqcDB8o" %}
-
-@Bilibili
-
-{% embed url="https://player.bilibili.com/player.html?aid=30591172&cid=53394108&page=1" %}
-
+[@Bilibili](https://player.bilibili.com/player.html?aid=30591172&cid=53394108&page=1)
