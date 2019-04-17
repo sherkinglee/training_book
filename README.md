@@ -1,8 +1,8 @@
 ---
-description: 生物信息学实践教程 - 提高篇
+description: Bioinfo Training -- Lu Lab
 ---
 
-# Bioinformatics Tutorial - Advanced
+# Bioinformatics Tutorial - Advanced 2018
 
 ![](.gitbook/assets/helix.png)
 

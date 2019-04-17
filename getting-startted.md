@@ -11,7 +11,7 @@
 1. Tutorial 
    * [**Basic Tutorial**](https://lulab2.gitbook.io/teaching)
    * **Advanced Tutorial** \(this one\) \| [Additional Tutorial](https://youngleebbs.gitbook.io/bioinfo-training/)
-2. Teaching [**Videos**](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/) **\(**mirror: ****[Youku Link](http://list.youku.com/albumlist/show/id_51618375.html)\)
+2. Teaching [**Videos**](https://cloud.tsinghua.edu.cn/d/db0fb4fecb5547e5b19b/) **\(**mirror: _\*\*_[Youku Link](http://list.youku.com/albumlist/show/id_51618375.html)\)
 3. Teaching [**PPT**](https://www.jianguoyun.com/p/DTwA_GEQ0NLuBRjA9UY) \(view PDFs on-line only, not downloadable\)
 4. \*\*\*\*[**Github**](https://lulab.github.io/training) for students \(shared code and documents）
 
@@ -44,20 +44,17 @@
 
 All code has been tested in cnode @ Lu Lab. We would also provide a Linux **docker** for our advanced tutorial in the future.
 
+## Video
 
-
-## Video 
-
-### a\) Introduce training on github 
+### a\) Introduce training on github
 
 [@Youtube](https://youtu.be/UeyenyNkjWE)
 
 [@Bilibili](https://player.bilibili.com/player.html?aid=30589908&cid=53391901&page=1)
 
-
 ### b\) More videos
 
-[@Youtube](https://youtu.be/kLRC0w9u\_fM)
+[@Youtube](https://youtu.be/kLRC0w9u_fM)
 
 [@Bilibili](https://player.bilibili.com/player.html?aid=30592739&cid=53397191&page=1)
 
