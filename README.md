@@ -1,8 +1,8 @@
 ---
-description: Bioinfo Training -- Lu Lab
+description: Copyright © 2019 Lu Lab
 ---
 
-# Bioinformatics Tutorial - Advanced 2018
+# Bioinformatics Tutorial - Advanced
 
 ![](.gitbook/assets/helix.png)
 
