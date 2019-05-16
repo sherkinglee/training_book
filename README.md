@@ -1,5 +1,5 @@
 ---
-description: Copyright © 2019 Lu Lab
+description: Copyright © 2018 Lu Lab
 ---
 
 # Bioinformatics Tutorial - Advanced
