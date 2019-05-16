@@ -8,7 +8,7 @@
 
 ## Work with a computing server remotely  <a id="1"></a>
 
-1. [ssh](../part-i.advanced-skills/2.linux.md#4-setup-ssh-key) and ssh keys
+1. [ssh](../part-i.-advanced-skills/2.linux.md#4-setup-ssh-key) and ssh keys
 2. nohub, screen or tmux
 
 > **More Reading**
