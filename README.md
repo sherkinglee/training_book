@@ -32,5 +32,13 @@ Yang Li, Binbin Shi, Xupeng Chen, Siqi Wang, Jingyi Cao, Zhiyu Xu and Zhi J. Lu\
 
 ## Copyright
 
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+{% embed url="http://www.apache.org/licenses/LICENSE-2.0" %}
+
+
+
+## Previous Versions
+
+{% embed url="http://lulab2018.gitbook.io/training" %}
+
+
 
