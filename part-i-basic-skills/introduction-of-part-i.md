@@ -1,13 +1,13 @@
 # Introduction of PART I
 
 {% hint style="info" %}
+
 **写在前面的话**
 
 今天，数据不是太少而是太大，信息不是匮乏而是繁杂，现代人的重要的能力是“挖掘”和“鉴别”。对生物信息学的工作而言，最重要的、最有用的基本工具和技能一直是，我相信也会始终是：
 
 1. google
 2. wikipedia
-{% endhint %}
 
 ## **Aim**
 
@@ -140,6 +140,4 @@
 * [Quick R](https://www.statmethods.net/)
 
 ### [Quick Reference Cards](https://github.com/lulab/training/tree/master/assets/training_book/refcards)
-
-
 

@@ -6,5 +6,3 @@ We'll introduce machine learning for bioinformatics.
 * Feature Selection
 * Deep Learning
 
-
-

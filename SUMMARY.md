@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bioinformatics Tutorial - Advanced](README.md)
+* [Bioinformatics Tutorial - Advanced \(2018\)](README.md)
 * [Getting Startted](getting-startted.md)
 
 ## PART I Basic Skills

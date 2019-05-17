@@ -2,7 +2,7 @@
 description: Copyright © 2018 Lu Lab
 ---
 
-# Bioinformatics Tutorial - Advanced
+# Bioinformatics Tutorial - Advanced \(2018\)
 
 ![](.gitbook/assets/helix.png)
 
