@@ -24,7 +24,6 @@
   * [2.1 Pipeline](part-ii.-ngs-data-analyses/2.expression-matrix/2.1.pipeline.md)
   * [2.2 Normalization Issues](part-ii.-ngs-data-analyses/2.expression-matrix/2.2.normalization-issues.md)
 * [3.Differential Expression](part-ii.-ngs-data-analyses/3.differential-expression.md)
-* [4.More Analyses](part-ii.-ngs-data-analyses/4.more-analyses.md)
 * [Conclusion of PART II](part-ii.-ngs-data-analyses/conclusion-of-part-ii.md)
 
 ## PART III. MACHINE LEARNING
@@ -39,7 +38,8 @@
 * [Case Study 1. exSEEK](part-iv.-case-studies/case-study-1.exseek/README.md)
   * [1.1 Utilities](part-iv.-case-studies/case-study-1.exseek/1.1.utilities.md)
   * [1.2 Normalization](part-iv.-case-studies/case-study-1.exseek/1.2.normalization.md)
-* [Case Study 2. DeepSHAPE](part-iv.-case-studies/case-study-2.deepshape.md)
+* [Case Study 2. DeepSHAPE](part-iv.-case-studies/case-study-2.deepshape/README.md)
+  * [2.1 Background](part-iv.-case-studies/case-study-2.deepshape/2.1-background.md)
 
 ## Appendix
 
