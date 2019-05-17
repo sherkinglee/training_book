@@ -4,8 +4,6 @@ description: Copyright © 2018 Lu Lab
 
 # Bioinformatics Tutorial - Advanced \(2018\)
 
-![](.gitbook/assets/helix.png)
-
 ## Teaching Philosophy
 
 {% hint style="info" %}
