@@ -36,7 +36,7 @@
 ## PART IV. CASE STUDIES
 
 * [Case Study 1. exSEEK](part-iv.-case-studies/case-study-1.exseek/README.md)
-  * [1.1 Utilities](part-iv.-case-studies/case-study-1.exseek/1.1.utilities.md)
+  * [1.1 Plot Utilities](part-iv.-case-studies/case-study-1.exseek/1.1.utilities_plots.md)
   * [1.2 Normalization](part-iv.-case-studies/case-study-1.exseek/1.2.normalization.md)
 * [Case Study 2. DeepSHAPE](part-iv.-case-studies/case-study-2.deepshape/README.md)
   * [2.1 Background](part-iv.-case-studies/case-study-2.deepshape/2.1-background.md)
