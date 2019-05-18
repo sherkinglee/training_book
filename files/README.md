@@ -4,7 +4,7 @@
 
 * genome
 * gtf/gff
-* ...
 * jupyter notebooks for [case studies-2.exseek](../part-iii.case-studies/case-study-2.exseek/)
+* ...
 
 

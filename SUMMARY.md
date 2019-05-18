@@ -30,7 +30,7 @@
   * [1.4 Normalization Issues](part-iii.case-studies/case-study-1.exrna-seq/1.4.normalization-issues.md)
 * [Case Study 2. exSEEK](part-iii.case-studies/case-study-2.exseek/README.md)
   * [2.1 Plot Utilities](part-iii.case-studies/case-study-2.exseek/2.1-plot-utilities.md)
-  * [2.2 Normalization](part-iii.case-studies/case-study-2.exseek/2.2.normalization.md)
+  * [2.2 Matrix Processing](part-iii.case-studies/case-study-2.exseek/2.2.normalization.md)
   * [2.3 Feature Selection](part-iii.case-studies/case-study-2.exseek/2.2.feature-selection.md)
 * [Case Study 3. DeepSHAPE](part-iii.case-studies/case-study-3.deepshape/README.md)
   * [3.1 Background](part-iii.case-studies/case-study-3.deepshape/3.1-background.md)
