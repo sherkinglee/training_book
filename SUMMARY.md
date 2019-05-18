@@ -3,16 +3,16 @@
 * [Bioinformatics Tutorial - Advanced](README.md)
 * [Getting Startted](getting-startted.md)
 
-## PART I. ADVANCED SKILLS
+## PART I. PROGRAMMING SKILLS
 
-* [Introduction of PART I](part-i.advanced-skills/introduction-of-part-i.md)
-* [1.Setup](part-i.advanced-skills/1.setup.md)
-* [2.Linux](part-i.advanced-skills/2.linux.md)
-* [3.Bash and Github](part-i.advanced-skills/3.bash-and-github.md)
-* [4.R](part-i.advanced-skills/4.r.md)
-* [5.Python](part-i.advanced-skills/5.python_basics.md)
-* [6.Perl](part-i.advanced-skills/6.perl.md)
-* [Conclusion of PART I](part-i.advanced-skills/conclusion-of-part-i.md)
+* [Introduction of PART I](part-i.programming-skills/introduction-of-part-i.md)
+* [1.Setup](part-i.programming-skills/1.setup.md)
+* [2.Linux](part-i.programming-skills/2.linux.md)
+* [3.Bash and Github](part-i.programming-skills/3.bash-and-github.md)
+* [4.R](part-i.programming-skills/4.r.md)
+* [5.Python](part-i.programming-skills/5.python_basics.md)
+* [6.Perl](part-i.programming-skills/6.perl.md)
+* [Conclusion of PART I](part-i.programming-skills/conclusion-of-part-i.md)
 
 ## PART II. MACHINE LEARNING SKILLS
 
