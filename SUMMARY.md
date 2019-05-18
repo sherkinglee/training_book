@@ -44,6 +44,6 @@
 
 ## Unsynced
 
-* [unsynced: case-study-1.exseek](part-iv.-case-studies/case-study-1.exseek.md)
-  * [unsynced: utilities_plots](part-iv.-case-studies/case-study-1.exseek/1.1.utilities_plots.md)
+* [unsynced: part-iv.-case-studies/case-study-1.exseek](part-iv.-case-studies)
+
 
