@@ -42,8 +42,4 @@
 * [Appendix III. Mapping Protocol of RNA-seq](appendix/appendix-iii.mapping-protocol-of-rna-seqnd-mapping-protocol.md)
 * [Appendix IV. Docker Manual](appendix/appendix-iv.docker-manual.md)
 
-## Unsynced
-
-* [unsynced: part-iv.-case-studies/case-study-1.exseek](part-iv.-case-studies)
-
 
