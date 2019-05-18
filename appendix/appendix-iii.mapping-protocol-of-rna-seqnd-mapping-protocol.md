@@ -1,4 +1,4 @@
-# 1.2 Mapping Protocol
+# Appendix III. Mapping Protocol of RNA-seq
 
 ## What is Next-Generation Sequencing\(NGS\)?
 
@@ -15,9 +15,9 @@ There are many methods for performing an RNA-seq experiment. In fact, the techni
 * Sequencing—DNA polymerase catalyzes the incorporation of fluorescently labeled deoxyribonucleotide triphosphates\(dNTPs\) into a DNA template strand during sequential cycles of DNA synthesis and nucleotide is identified by fluorophore excitation. 
 * Data Analysis
 
-![Figure1. NGS overview](../../.gitbook/assets/mapping_protocol_fig1.png)
+![Figure1. NGS overview](../.gitbook/assets/mapping_protocol_fig1.png)
 
-![YouTube NGS video](../../.gitbook/assets/mapping-protocol-youtube.png)
+![YouTube NGS video](../.gitbook/assets/mapping-protocol-youtube.png)
 
 Click [here](http://www.youtube.com/watch?v=fCd6B5HRaZ8) to see the video
 
@@ -28,7 +28,7 @@ RNA samples are typically sequenced with either single end\(SE\) or pair end\(PE
 * Single-End Sequencing: Single-read sequencing involves sequencing DNA from only one end, and is the simplest way for sequencing \(Figure 2\).
 * Paired-End Sequencing: A major advance in NGS technology occurred with the development of pair-end \(PE\) sequencing \(Figure 2\). PE sequencing enables both ends of the DNA fragment to be sequenced.
 
-![Figure2. Single and Pair-end sequencing](../../.gitbook/assets/mapping_protocol_fig2.png)
+![Figure2. Single and Pair-end sequencing](../.gitbook/assets/mapping_protocol_fig2.png)
 
 ## Why Bother With Strand Information?
 
@@ -40,7 +40,7 @@ There has been a lot of discussion about anti-sense transcription and its biolog
 
 It is often desirable to create libraries that retain the **strand orientation** of the original RNA targets. For example, in some cases transcription creates anti-sense RNA constructs that may play a role in regulating gene expression. In fact, long noncoding RNA \(lncRNA\) analysis depends on directional RNA sequencing. Methods for preparing directional RNA-seq libraries are now readily available and different tools and softwares have different options to take these into account \(Figure 3\).
 
-![Figure 3. Strand-specific library construction](../../.gitbook/assets/mapping_protocol_fig3.png)
+![Figure 3. Strand-specific library construction](../.gitbook/assets/mapping_protocol_fig3.png)
 
 In general, there are three types of library preps:
 
@@ -48,7 +48,7 @@ In general, there are three types of library preps:
 * "second-strand" = directional, where the ﬁrst read of the read pair \(or in case of single end reads, the only read\) is from the transcript strand 
 * "ﬁrst-strand" = directional, where the ﬁrst read \(or the only read in case of SE\) is from the opposite strand.
 
-![Summary of library type protocols](../../.gitbook/assets/summary_of_library_type_protocols.png)
+![Summary of library type protocols](../.gitbook/assets/summary_of_library_type_protocols.png)
 
 \(borrowed from: [http://onetipperday.sterding.com/2012/07/how-to-tell-which-library-type-to-use.html](http://onetipperday.sterding.com/2012/07/how-to-tell-which-library-type-to-use.html)\)
 

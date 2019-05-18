@@ -1,44 +1,11 @@
-# Introduction of PART II
+# Case Study 1. exRNA-seq
 
-{% hint style="info" %}
-**写在前面的话**
-
-我们将通过实际的例子，也就是Case Study，来进行生物信息分析的教学和训练。这样的学习更加有目的性，也更加有趣，但是不足的地方是教学的内容会不够完备。
-{% endhint %}
-
-## Work with a computing server remotely  <a id="1"></a>
-
-1. [ssh](../part-i.-advanced-skills/2.linux.md#4-setup-ssh-key) and ssh keys
-2. nohub, screen or tmux
-
-> **More Reading**
->
-> &lt;&lt;Bioinformatics Data Skills&gt;&gt;
->
-> 4\) Working with Remote Machines
-
-## Let's start a real case
-
-{% hint style="info" %}
-**Identify novel exRNA biomarkers for cancer diagnosis**
-{% endhint %}
-
-### Outline:
-
-1. Basics
-   1. **Pre-processing**, **Mapping, Annotation** and **QC**. 
-   2. **Expression Matrix**
-   3. **Differential Expression Analysis and Clustering**
-2. Advanced
-   1. **Normalization**
-   2. **Imputation**
-   3. **Control Data**
-   4. **Extension**
+## Basic analyses for exRNA-seq 
 
 ### a\) Background Introduction
 
-* [PPT](../getting-startted.md#learning-materials):  0. Introduction of exRNA-seq.pdf \(view on-line only, not downloadable\)
-* [Teaching Video](../getting-startted.md#learning-materials): Week V - Part II. 0. Intr to exRNA-seq.mov
+* [PPT](../../getting-startted.md#learning-materials):  0. Introduction of exRNA-seq.pdf \(view on-line only, not downloadable\)
+* [Teaching Video](../../getting-startted.md#learning-materials): Week V - Part II. 0. Intr to exRNA-seq.mov
 
 ### b\) Understand your data
 
@@ -49,7 +16,7 @@
   * small RNA-seq  \(&lt;50nt\)
   * total RNA-seq \(ribosome removed\) \(&gt;200nt\)
   * nonpolyA RNA-seq \(ribosome removed\) \(&gt;200nt\)
-* [**Different cell localizations**](../appendix/appendix-ii.public-data.md#local)**:**
+* [**Different cell localizations**](../../appendix/appendix-ii.public-data.md#local)**:**
   * nuc. \(total\) 
   * chromosome \(total\) 
   * cyto. \(poly-A\) 
@@ -112,9 +79,19 @@ mkpr
 
 ## Video
 
-### a\) Introduction exRNA-seq
-
 [@Youtube](https://youtu.be/ovSVpqcDB8o)
 
 [@Bilibili](https://player.bilibili.com/player.html?aid=30591172&cid=53394108&page=1)
+
+
+
+## Other pipelines for RNA-seq analyses
+
+{% hint style="success" %}
+We also recommend some other Tutorials/Pipelines you can learn from:
+
+* **RNA-seq analysis** pipeline:: [https://github.com/mgonzalezporta/TeachingMaterial](https://github.com/mgonzalezporta/TeachingMaterial)
+* **lncRNA analysis** pipeline: [http://webhome.weizmann.ac.il/home/igoru/PLAR/](http://webhome.weizmann.ac.il/home/igoru/PLAR/)
+* **ENCODE** pipelines: [https://www.encodeproject.org/pipelines/](https://www.encodeproject.org/pipelines/)
+{% endhint %}
 
