@@ -44,4 +44,5 @@
 ## part-iv.-case-studies
 
 * [case-study-1.exseek](part-iv.-case-studies/case-study-1.exseek.md)
+  * [plot](part-iv.-case-studies/case-study-1.exseek/1.1.utilities_plots.md)
 
