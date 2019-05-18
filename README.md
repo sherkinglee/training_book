@@ -4,7 +4,13 @@ description: Copyright © 2019 Lu Lab
 
 # Bioinformatics Tutorial - Advanced
 
+**生物信息学实践教程 - 进阶篇 \(2019版\)**
+
 ![](.gitbook/assets/helix.png)
+
+2019年6月于清华园
+
+> 本书在清华大学鲁志实验室内部培训课的基础上编写。
 
 ## Teaching Philosophy
 
