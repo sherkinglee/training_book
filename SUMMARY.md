@@ -18,7 +18,8 @@
 
 * [1.Machine Learning](part-ii.-machine-learning-skills/1.machine-learning-basics.md)
 * [2.Feature Selection](part-ii.-machine-learning-skills/2.feature-selection.md)
-* [3.Deep Learning](part-ii.-machine-learning-skills/3.deep-learning-basics.md)
+* [3.Machine Learning Practice](part-ii.-machine-learning-skills/4.machine_learning_practice.md)
+* [4.Deep Learning](part-ii.-machine-learning-skills/3.deep-learning-basics.md)
 
 ## PART III. CASE STUDIES
 
