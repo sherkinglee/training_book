@@ -35,6 +35,10 @@
   * [2.3 Feature Selection](part-iii.-case-studies/case-study-2.exseek/2.2.feature-selection.md)
 * [Case Study 3. DeepSHAPE](part-iii.-case-studies/case-study-3.deepshape/README.md)
   * [3.1 Background](part-iii.-case-studies/case-study-3.deepshape/3.1-background.md)
+  * [3.2 Prediction of structure profiles](part-iii.-case-studies/case-study-3.deepshape/3.2-prediction-of-structure-profiles.md)
+  * [3.3 Motif discovery](part-iii.-case-studies/case-study-3.deepshape/3.3-motif-discovery.md)
+  * [3.4 Resources](part-iii.-case-studies/case-study-3.deepshape/3.4-resources.md)
+  * [3.5 Literature](part-iii.-case-studies/case-study-3.deepshape/3.5-literature.md)
 
 ## Appendix
 
