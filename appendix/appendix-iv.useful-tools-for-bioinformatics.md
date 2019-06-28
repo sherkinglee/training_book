@@ -182,4 +182,36 @@ ls | xargs -L 1 -P 4 wc -l
 
 ## crontab
 
+Linux下计划运行任务的程序。
+
+在线crontab生成器：https://crontab-generator.org/
+
+打开crontab编辑器：
+
+```bash
+crontab -e
+```
+
+加入以下crontab行：
+
+```
+0 */6 * * * du -sh /tmp >>/tmp/du.txt 2>&1
+```
+
+将每隔6个小时运行后面的命令`du -sh /tmp`，并添加到文件`/tmp/du.txt`里
+
 ## killall
+
+按条件批量删除任务。
+
+例如，删除所有名为python的任务：
+
+```bash
+killall python
+```
+
+删除所有由用户`${user}`启动的任务：
+
+```bash
+killall -u ${user}
+```
