@@ -70,20 +70,115 @@ rsync -ravP ${source} ${dest}
 
 ## Visual Studio Code
 
+微软推出的图形编辑器。
+
+下载地址：https://code.visualstudio.com/
+
+特性：
+
+* 轻量级。相比于PyCharm编辑器启动更快，运行更加流畅
+* 与Git, Docker深度集成（可查看文件修改状态和修改历史）
+* 支持大量的插件，包括Python, R, bash, C/C++，HTML等绝大部分语言语法检查器和补全
+* 自动保存和恢复工作区（打开的文件）
+* 底部集成Terminal
+* Remote Development (SSH)插件支持直接通过SSH直接编辑远程服务器上的文件
+* Remote Development (WSL)插件支持Windows上直接编辑WSL (Linux子系统）上的文件
+* Remote Development (Docker)插件支持直接编辑Docker容器内的文件
+
 ## htop
+
+终端下交互式任务管理器
+
+下载地址：https://hisham.hm/htop/
+
+特性：
+
+* 建议替代系统top。可同时可视化显示运行的任务信息，CPU负载，内存占用，硬盘占用等信息
+* 支持鼠标点击操作，例如按CPU, 内存使用排序
+* 支持进程树显示
+* 可显示进程下的线程
+
 
 ## screen
 
-## singularity
+Linux下后台任务管理，用于保持任务后台运行并实时监控任务运行状态。
 
-## udocker
+CentOS下安装方法：
+
+```bash
+sudo yum install screen
+```
+
+**启动新窗口**（命名为`${task_name}`）：
+
+```bash
+screen -S ${task_name}
+```
+
+**暂时退出窗口(detach)**: 先同时按Ctrl-a，松开后按d键
+
+**列出所有窗口**:
+
+```bash
+screen -ls
+```
+
+**恢复窗口(attach)**:
+
+```bash
+screen -r ${task_name}
+```
+
+**完全退出窗口(kill)**: Ctrl-d
+
 
 ## parallel/xargs
 
+命令行下任务并行软件。其中parallel需要单独安装，但功能比xargs更强大。
+
+最简单的使用方法是，把要运行的bash命令写到文件`commands.txt`里，每行一个命令，然后运行：
+
+```bash
+parallel -j 8 commands.txt
+```
+
+其中`-j`后的数字代表最大同时运行的命令数。
+
+xargs默认会把多行输入合并为空格分隔的单行输出，如果后面加命令，则会把它们作为命令参数。
+
+例如以下命令把ls输出的文件名作为参数传递给`wc -l`统计每个文件的行数：
+
+```bash
+ls | xargs wc -l
+```
+
+如果需要上述命令并行，可以用以下命令：
+
+```bash
+ls | xargs -L 1 -P 4 wc -l
+```
+
+其中`-L 1`代表每一行合并为一个参数传递给`wc -l`，`-P 4`参数代表4个线程并行。
+
+
 ## ack
+
+比grep更强大的代码搜索工具。
+
+下载地址：https://beyondgrep.com/
+
+特性：
+
+* 默认递归搜索（grep命令需用`fgrep -r`递归搜索）
+* 可指定编程语言（例如加`--python`参数）
+* 高亮显示所在文件和行
 
 ## pigz
 
+下载地址：https://zlib.net/pigz/
+
+多线程版的gzip压缩工具，使用方式与gzip完全相同。线程数可用-p参数指定。
+一般用3~4个线程可大大加速gzip的压缩和解压操作，过大没有加速效果，因为受限于硬盘读写速度。
 
 ## crontab
 
