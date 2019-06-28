@@ -43,6 +43,7 @@
 * [Appendix I. Keep Learning](appendix/appendix-i.keep-learning.md)
 * [Appendix II. Public Data](appendix/appendix-ii.public-data.md)
 * [Appendix III. Mapping Protocol of RNA-seq](appendix/appendix-iii.mapping-protocol-of-rna-seqnd-mapping-protocol.md)
+* [Appendix IV. Useful tools for bioinformatics](appendix/appendix-iv.useful-tools-for-bioinformatics.md)
 
 ## SOFTWARE
 
