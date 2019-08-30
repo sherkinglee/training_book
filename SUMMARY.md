@@ -49,4 +49,5 @@
 
 * [I. Docker Manual](software/i.docker-manual.md)
 * [II. Local Gitbook Builder](software/ii.-local-gitbook-builder.md)
+* [III. Teaching Materials](software/iii.-teaching-materials.md)
 
