@@ -12,6 +12,9 @@
 | 4b. R Advanced \(by Yang Eric Li\) | [@Youtube](https://youtu.be/HeIAZ3pgsxQ) | [@Bilibili](https://player.bilibili.com/player.html?aid=30625984&cid=53458279&page=1) |
 | 5.Python | [@Youtube](https://youtu.be/ysW-14kuwhs) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590828&cid=53393333&page=1) |
 | 6.perl | [@Youtube](https://youtu.be/2jOGbVfuyjA) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590572&cid=53393101&page=1) |
+| **PART II. Machine Learning Skills** | \*\*\*\* |  |
+| 1.Machine Learning Basics |  |  |
+| 2.Feature Selection |  |  |
 | **PART III. Case Study 1. exRNA-seq** | [@Youtube](https://youtu.be/ovSVpqcDB8o) | [@Bilibili](https://player.bilibili.com/player.html?aid=30591172&cid=53394108&page=1) |
 | 1.1a\) Mapping | [@Youtube](https://youtu.be/5v2fbx93TF4) | [@Bilibili](https://player.bilibili.com/player.html?aid=30591535&cid=53394590&page=1) |
 | 1.1b\) Run your job example in bash | [@Youtube](https://youtu.be/BqxHRxxBVeQ) | [@Bilibili](https://player.bilibili.com/player.html?aid=30592322&cid=53396126&page=1) |
