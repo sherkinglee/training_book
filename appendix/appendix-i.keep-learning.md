@@ -2,25 +2,28 @@
 
 ## 推荐书单和课程
 
+> ⭐: **必读**  
+> ✨: **推荐**
+
 ### 1. Recommended Books 
 
 **实践**：
 
-* 《[Bioinformatics Data Skills](http://a.co/1wYbUB5)》_by ****Vince Buffalo_
+* ⭐《[Bioinformatics Data Skills](http://a.co/1wYbUB5)》by _Vince Buffalo_
 
 **理论**：
 
-1. **《**[Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/):Probabilistic Models of Proteins and Nucleic Acids》 \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\) by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_
-2. [《机器学习》](https://book.douban.com/subject/26708119/) -- 周志华
+1. ⭐《[Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/):Probabilistic Models of Proteins and Nucleic Acids》 \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\) by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_
+2. ⭐[《机器学习》](https://book.douban.com/subject/26708119/) -- 周志华
 
 ### 2. Recommended on-line Courses
 
-* **Machine Learning** by _Andrew Ng 吴恩达_ \(CS229\): @[coursera](https://www.coursera.org/learn/machine-learning) \| @[网易](https://study.163.com/course/introduction/1004570029.htm) \|  @[bilibili](http://t.cn/RYpskDe)
+* ⭐**Machine Learning** by _Andrew Ng 吴恩达_ \(CS229\): @[coursera](https://www.coursera.org/learn/machine-learning) \| @[网易](https://study.163.com/course/introduction/1004570029.htm) \|  @[bilibili](http://t.cn/RYpskDe)
 
 ### 3. Recommended Educational Papers
 
-* [Educational Papers](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) _by Nature Biotech._ and _PLOS Computational Biology_   \(@[evernote](https://www.evernote.com/shard/s18/sh/22ef32b8-893c-4643-b409-39a910175730/e8aa0ed8820d4aecb458ad922f7d46ae)\)
-* [Statistics for biologist](http://www.nature.com/collections/qghhqm/) by _Nature_
+* ✨[Educational Papers](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) _by Nature Biotech._ and _PLOS Computational Biology_   \(@[evernote](https://www.evernote.com/shard/s18/sh/22ef32b8-893c-4643-b409-39a910175730/e8aa0ed8820d4aecb458ad922f7d46ae)\)
+* ✨[Statistics for biologist](http://www.nature.com/collections/qghhqm/) by _Nature_
 
 
 
@@ -59,12 +62,10 @@
 
 1. **机器学习入门课程**
    1. [浙江大学公开课：概率论与数理统计 ](http://open.163.com/movie/2019/4/R/6/MEC1U20OT_MEC1U8MR6.html)\(根据自己基础选择复习\)
-   2. **Machine Learning** by _Andrew Ng 吴恩达_ \(CS229\): @[coursera](https://www.coursera.org/learn/machine-learning) \| @[网易](https://study.163.com/course/introduction/1004570029.htm) \|  @[bilibili](http://t.cn/RYpskDe)
-
-       \(必读\) \(★★★★★推荐\)
+   2. **Machine Learning** by _Andrew Ng 吴恩达_ \(CS229\): @[coursera](https://www.coursera.org/learn/machine-learning) \| @[网易](https://study.163.com/course/introduction/1004570029.htm) \|  @[bilibili](http://t.cn/RYpskDe) \(★★★★★推荐\)
 2. **深度学习课程** 
    1. **Deep Learning** by _Andrew Ng 吴恩达_ \(CS230\): @[coursera](https://www.coursera.org/specializations/deep-learning)  \|  @[bilibili](https://www.bilibili.com/video/av47055599/) \(★★★★推荐\)
-   2. [Keras快速搭建神经网络](http://t.cn/RTuDLKD) \(★★★★ 推荐\) 
+   2. [Keras快速搭建神经网络](http://t.cn/RTuDLKD) \(★★★★推荐\) 
    3. [李宏毅深度学习2017](http://t.cn/RpO3VJK) 
    4. [不用博士学位玩转Tensorflow深度学习](http://t.cn/RTuemTK) 
 
