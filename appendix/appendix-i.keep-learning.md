@@ -46,7 +46,7 @@
    2. 《python高性能编程》，Micha，Gorelick，戈雷利克，Ian，Ozsvald ...著
 4. **深度学习类书籍** \(希望加强对模型数学原理的理解，并且进一步学习深度学习的同学可选读\)
 
-   1. 《深度学习\[deep learning\]》，\[美\] Ian，Goodfellow，\[加\] Yoshua，Bengio，\[加\] Aaron ... 著\(★★★★★推荐\)
+   1. 《深度学习\[deep learning\]》，\[美\] Ian，Goodfellow，\[加\] Yoshua，Bengio，\[加\] Aaron ... 著\(★★★★推荐\)
    2. 《模式识别与机器学习\(Pattern Recognition and Machine Learning\)》,Christopher M. Bishop著
    3. 《机器学习：从概率的视角分析\(The Machine Learning: A Probabilistic Perspective\)》，Kevin P. Murphy著
 
