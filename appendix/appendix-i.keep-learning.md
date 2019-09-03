@@ -20,6 +20,7 @@
 ### 3. Recommended Educational Papers
 
 * [Educational Papers](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) _by Nature Biotech._ and _PLOS Computational Biology_   \(@[evernote](https://www.evernote.com/shard/s18/sh/22ef32b8-893c-4643-b409-39a910175730/e8aa0ed8820d4aecb458ad922f7d46ae)\)
+* [Statistics for biologist](http://www.nature.com/collections/qghhqm/) by _Nature_
 
 
 
