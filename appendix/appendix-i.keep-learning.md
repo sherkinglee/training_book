@@ -1,33 +1,31 @@
 # Appendix I. Keep Learning
 
-## 推荐书单和课程
+## 📖推荐书单和课程
 
 > ⭐: **必读**  
 > ✨: **推荐**
 
-### 1. Recommended Books 
+### I. Recommended Books
 
-**实践**：
+ **实践**：
 
 * ⭐《[Bioinformatics Data Skills](http://a.co/1wYbUB5)》by _Vince Buffalo_
 
-**理论**：
+ **理论**：
 
 1. ⭐《[Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/):Probabilistic Models of Proteins and Nucleic Acids》 \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\) by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_
 2. ⭐[《机器学习》](https://book.douban.com/subject/26708119/) -- 周志华
 
-### 2. Recommended on-line Courses
+### II. Recommended on-line Courses
 
 * ⭐**Machine Learning** by _Andrew Ng 吴恩达_ \(CS229\): @[coursera](https://www.coursera.org/learn/machine-learning) \| @[网易](https://study.163.com/course/introduction/1004570029.htm) \|  @[bilibili](http://t.cn/RYpskDe)
 
-### 3. Recommended Educational Papers
+### III. Recommended Educational Papers
 
 * ✨[Educational Papers](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) _by Nature Biotech._ and _PLOS Computational Biology_   \(@[evernote](https://www.evernote.com/shard/s18/sh/22ef32b8-893c-4643-b409-39a910175730/e8aa0ed8820d4aecb458ad922f7d46ae)\)
 * ✨[Statistics for biologist](http://www.nature.com/collections/qghhqm/) by _Nature_
 
-
-
-## 机器学习相关书单和课程推荐
+## 📑机器学习相关书单和课程推荐
 
 > edited based on Xiaofan Liu's list
 
@@ -52,11 +50,7 @@
 
    _注：**PRML**和**MLAPP**两本书难度较大_
 
-5. **深度学习编程与实践书籍** \(工具类书籍，不是必读\)
-   1. 《Keras深度学习实战》，\[意大利\]安东尼奥·古利\[印度\]苏伊特·帕尔著，王海玲李昉译，于立国审
-   2. 《深度学习入门之PyTorch》，廖星宇著
-   3. 《深度学习框架PyTorch快速开发与实战》，邢梦来，王硕，孙洋洋著
-   4. 《TensorFlow实战》，黄文坚，唐源著
+5. **深度学习编程与实践书籍** \(工具类书籍，不是必读\) 1. 《Keras深度学习实战》，\[意大利\]安东尼奥·古利\[印度\]苏伊特·帕尔著，王海玲李昉译，于立国审 2. 《深度学习入门之PyTorch》，廖星宇著 3. 《深度学习框架PyTorch快速开发与实战》，邢梦来，王硕，孙洋洋著 4. 《TensorFlow实战》，黄文坚，唐源著
 
 ### **II. 在线教学课程和视频**
 
