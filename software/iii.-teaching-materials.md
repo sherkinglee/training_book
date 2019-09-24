@@ -13,8 +13,8 @@
 | 5.Python | [@Youtube](https://youtu.be/ysW-14kuwhs) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590828&cid=53393333&page=1) |
 | 6.perl | [@Youtube](https://youtu.be/2jOGbVfuyjA) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590572&cid=53393101&page=1) |
 | **PART II. Machine Learning Skills** | \*\*\*\* |  |
-| 1.Machine Learning Basics |  |  |
-| 2.Feature Selection |  |  |
+| 1.Machine Learning Basics | [@Youtube](https://www.youtube.com/watch?v=8XQp4phGlyQ&feature=youtu.be) | [@Bilibili](https://www.bilibili.com/video/av67356730?pop_share=1) |
+| 2.Feature Selection | [@Youtube](https://www.youtube.com/watch?v=t3JQxdbC9SM&feature=youtu.be) | [@Bilibili](https://www.bilibili.com/video/av67356803?pop_share=1) |
 | **PART III. Case Study 1. exRNA-seq** | [@Youtube](https://youtu.be/ovSVpqcDB8o) | [@Bilibili](https://player.bilibili.com/player.html?aid=30591172&cid=53394108&page=1) |
 | 1.1a\) Mapping | [@Youtube](https://youtu.be/5v2fbx93TF4) | [@Bilibili](https://player.bilibili.com/player.html?aid=30591535&cid=53394590&page=1) |
 | 1.1b\) Run your job example in bash | [@Youtube](https://youtu.be/BqxHRxxBVeQ) | [@Bilibili](https://player.bilibili.com/player.html?aid=30592322&cid=53396126&page=1) |
