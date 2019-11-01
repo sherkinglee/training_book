@@ -1,10 +1,8 @@
 ---
-description: Copyright © 2019 Lu Lab
+description: 生物信息学实践教程 - 进阶篇 (2019版)
 ---
 
 # Bioinformatics Tutorial - Advanced
-
-**生物信息学实践教程 - 进阶篇 \(2019版\)**
 
 ![](.gitbook/assets/helix.png)
 
