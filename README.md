@@ -4,6 +4,12 @@ description: 生物信息学实践教程 - 进阶篇 (2019版)
 
 # Bioinformatics Tutorial - Advanced
 
+{% hint style="warning" %}
+Notes for readers in mainland China:
+
+**You may need VPN/V2Ray to view the full function of gitbook.**
+{% endhint %}
+
 ![](.gitbook/assets/helix.png)
 
 2019年6月于清华园
@@ -30,16 +36,11 @@ Yang Li, Binbin Shi, Xupeng Chen, Siqi Wang, Jingyi Cao, Zhiyu Xu and Zhi J. Lu\
 * School of Life Sciences, Tsinghua University, Beijing, China
 * Hompage: [http://lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
 
-
 ## Copyright
 
-{% embed url="http://www.apache.org/licenses/LICENSE-2.0" %}
-
-
+{% embed url="http://www.apache.org/licenses/LICENSE-2.0" caption="" %}
 
 ## Previous Versions
 
-{% embed url="http://lulab2018.gitbook.io/training" %}
-
-
+{% embed url="http://lulab2018.gitbook.io/training" caption="" %}
 

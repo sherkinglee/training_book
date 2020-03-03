@@ -4,7 +4,7 @@
 
 | Content | Youtube | Bilibili |
 | :--- | :--- | :--- |
-| **PART I Programming Skills**  | [@Youtube](https://youtu.be/o7nVOmj0pWA) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590084&cid=53392076&page=1) |
+| **PART I Programming Skills** | [@Youtube](https://youtu.be/o7nVOmj0pWA) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590084&cid=53392076&page=1) |
 | 1. Setup | [@Youtube](https://youtu.be/fM0bRuXz9F8) | [@Bilibili](https://player.bilibili.com/player.html?aid=30617423&cid=53443343&page=1) |
 | 2. Linux | [@Youtube](https://youtu.be/cOmJvMjn5CU) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590225&cid=53392482&page=1) |
 | 3. Bash and Github | [@Youtube](https://youtu.be/mXAdfWw-OBg) | [@Bilibili](https://player.bilibili.com/player.html?aid=30590318&cid=53392706&page=1) |
