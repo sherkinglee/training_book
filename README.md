@@ -5,7 +5,7 @@ description: 生物信息学实践教程 - 进阶篇 (2019版)
 # Bioinformatics Tutorial - Advanced
 
 {% hint style="warning" %}
-Notes for readers in mainland China:
+Note for readers in mainland China:
 
 **You may need VPN/V2Ray to view the full function of gitbook.**
 {% endhint %}
